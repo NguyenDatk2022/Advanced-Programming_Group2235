@@ -12,8 +12,12 @@ Bước 2: Chạy file database bằng MySQL - Đường dẫn: "./LTNCbe/databa
 
 Bước 3: Chạy thư mục LTNCbe với Visual Code
 
-    - Chạy lệnh npm install
+    - Chạy lệnh npm install để cài đặt các thư viện
 
     - Chạy lệnh npm start để khởi động server
 
-Bước 4: Chạy thư mục LTNCfe
+Bước 4: Chạy thư mục LTNCfe với Visual Code
+
+    - Chạy lệnh npm install để cài đặt các thư viện
+
+    - Chạy lệnh npm start để khởi động client
